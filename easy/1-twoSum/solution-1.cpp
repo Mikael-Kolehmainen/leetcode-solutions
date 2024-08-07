@@ -3,6 +3,9 @@
 
 using namespace std;
 
+// Basic solution
+// complexity - O(n²)
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
